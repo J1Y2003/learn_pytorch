@@ -27,3 +27,5 @@ def check_cuda():
 
 if __name__ == "__main__":
     check_cuda()
+
+print("Hi from Laptop!")
